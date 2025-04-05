@@ -31,7 +31,7 @@ way, and you will see the performance gets much better, example below:
 
 First, we draw a big box that includes all the persons:
 
-![](https://github.com/zdshen-hkbu/Image-Portrait-Mode-with-SAM/blob/main/sample%20images/ex1.png?raw=true)
+![](https://github.com/zdshen-hkbu/Image-Portrait-Mode-with-SAM/blob/main/sample%20images/ex3.png?raw=true)
 
 And the result is poor, the girl on the left lost her entire body: 
 
@@ -39,7 +39,7 @@ And the result is poor, the girl on the left lost her entire body:
 
 But if we draw multiple boxes, and each box only includes one or two persons:
 
-![](https://github.com/zdshen-hkbu/Image-Portrait-Mode-with-SAM/blob/main/sample%20images/ex3.png?raw=true)
+![](https://github.com/zdshen-hkbu/Image-Portrait-Mode-with-SAM/blob/main/sample%20images/ex1.png?raw=true)
 
 The result will be literally perfect: 
 
