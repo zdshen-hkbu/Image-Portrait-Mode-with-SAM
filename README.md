@@ -14,7 +14,7 @@ You can run this app on Google colab:
 Here is an example of the effect of the background blurring and backgroung replacement functions: 
 
 Original image:
-!(https://github.com/zdshen-hkbu/Image-Portrait-Mode-with-SAM/blob/main/sample%20images/2.jpg?raw=true)
+![](https://github.com/zdshen-hkbu/Image-Portrait-Mode-with-SAM/blob/main/sample%20images/2.jpg?raw=true)
 
 # Suggestions
 During the implementation of the program, I found that when using bounding box prompts, SAM is
