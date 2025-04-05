@@ -35,7 +35,7 @@ First, we draw a big box that includes all the persons:
 
 And the result is poor, the girl on the left lost her entire body: 
 
-![](https://github.com/zdshen-hkbu/Image-Portrait-Mode-with-SAM/blob/main/sample%20images/ex2.png?raw=true)
+![](https://github.com/zdshen-hkbu/Image-Portrait-Mode-with-SAM/blob/main/sample%20images/ex4.png?raw=true)
 
 But if we draw multiple boxes, and each box only includes one or two persons:
 
@@ -43,4 +43,4 @@ But if we draw multiple boxes, and each box only includes one or two persons:
 
 The result will be literally perfect: 
 
-![](https://github.com/zdshen-hkbu/Image-Portrait-Mode-with-SAM/blob/main/sample%20images/ex4.png?raw=true)
+![](https://github.com/zdshen-hkbu/Image-Portrait-Mode-with-SAM/blob/main/sample%20images/ex2.png?raw=true)
